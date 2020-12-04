@@ -1,1 +1,2 @@
 Add a dummy txt file for testing a regular commit
+Another dummy modification for testing a regular commit with multiple files modified
